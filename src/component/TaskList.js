@@ -9,7 +9,7 @@ export const TaskList = () => {
 
   return (
     <div className=" bg-danger">
-      <h2 className=" bg-light">Tasks List</h2>
+      <h2 className=" bg-light">Tasks List...</h2>
       <div className=" container">
         <div className=" row-4">
           {context.tasks.map((task) => (
