@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/createtask-reduce-context-boostrap/static/css/main.c59cc657.css",
+    "main.js": "/createtask-reduce-context-boostrap/static/js/main.e010dc93.js",
+    "index.html": "/createtask-reduce-context-boostrap/index.html",
+    "main.c59cc657.css.map": "/createtask-reduce-context-boostrap/static/css/main.c59cc657.css.map",
+    "main.e010dc93.js.map": "/createtask-reduce-context-boostrap/static/js/main.e010dc93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59cc657.css",
+    "static/js/main.e010dc93.js"
+  ]
+}
